@@ -1,1 +1,1 @@
-web: python catseverywhere.py
+web: python core/data/catseverywhere.py
